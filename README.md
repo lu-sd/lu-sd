@@ -30,3 +30,8 @@ I am a self-motivated software developer with a strong focus on Javascript, Reac
 
 ### 📊 Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=lu-sd&theme=gruvbox)](https://git.io/streak-stats)
+
+## 🎓 Certificates & Trainings
+<a href="https://www.credly.com/badges/1efd7793-42f2-411f-9139-a1cf310ae3ff">
+<img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified: aws saa" width="100" height="100">
+</a>
