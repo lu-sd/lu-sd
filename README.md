@@ -4,7 +4,7 @@
 - :smile: Pronouns: she/her
 
 
-I am a self-motivated software developer with a strong focus on Javascript, React, and Cloud Computation. I have a strong passion for technology and a keen eagerness to expand my technical skill set continuously. Outside of work I enjoy running and upgrading my neovim skills.
+I am a self-motivated software developer with focus on Javascript, React, and Cloud Computation. I have a strong passion for technology and a keen eagerness to expand my technical skill set continuously. Outside of the work I enjoy running and upgrading my neovim skills.
 
 ---
 
@@ -23,6 +23,7 @@ I am a self-motivated software developer with a strong focus on Javascript, Reac
 <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
 <img align="left" alt="Aws" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <br />
