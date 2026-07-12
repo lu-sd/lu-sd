@@ -4,7 +4,7 @@
 - :smile: Pronouns: she/her
 
 
-I am a self-motivated software developer with focus on Javascript, React, and Cloud Computation. I have a strong passion for technology and a keen eagerness to expand my technical skill set continuously. Outside of the work I enjoy running and upgrading my neovim skills.
+I am a self-motivated software developer with focus on NGS data analysis, web application development, and Cloud Computation. I have a strong passion for technology and a keen eagerness to expand my technical skill set continuously. Outside of the work I enjoy running and upgrading my neovim skills.
 
 ---
 
